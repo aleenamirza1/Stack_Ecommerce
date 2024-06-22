@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765859414312",
+    "project_id": "stackecom-b1331",
+    "storage_bucket": "stackecom-b1331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765859414312:android:8e039904d80f1aa908501d",
+        "android_client_info": {
+          "package_name": "com.example.ecomstack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WyMrkcYg_RcHuqq-o7IKf-MeuBmAJik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
